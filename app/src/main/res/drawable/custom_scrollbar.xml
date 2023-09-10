@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FF0000"/> <!-- Customize the color of your scrollbar -->
+            <corners android:radius="4dp"/> <!-- Customize the corner radius if needed -->
+        </shape>
+    </item>
+</layer-list>
